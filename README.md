@@ -1,2 +1,3 @@
 # serverless-getting-started
-serverless
+
+Serverless training example
